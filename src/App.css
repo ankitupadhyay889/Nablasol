@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+#aw{
+  display: inline-flex;
+  margin-bottom: 10%;
+}
+#pok{
+  background-color: aqua;
+  text-align: center;
+  justify-items: center;
+}
+#kp{
+  background-color: aqua;
+}
+#pp{
+  border-radius: 25px;
+}
+#pk{
+  background-color: rgb(219, 221, 221);
+}
+#pj{
+  background-color: rgb(219, 221, 221);
+}
